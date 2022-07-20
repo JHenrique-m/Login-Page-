@@ -1,5 +1,5 @@
 # Oi gente 👋
-Nesse projeto fiz uma tela de login dark mode, batizei ela de Apollo Cat, pq ? , vejam vcs mesmos : 
+Nesse projeto fiz uma tela de login, batizei ela de Apollo Cat, pq ? , vejam vcs mesmos : 
 <br>
 <img src="Capturar.PNG"> 
 
