@@ -1,7 +1,5 @@
-# Oi gente 👋
-Nesse projeto fiz uma tela de login, batizei ela de Apollo Cat, pq ? , vejam vcs mesmos : 
-<br>
-<img src="Capturar.PNG"> 
+# Página de Login
+Nesse projeto fiz uma tela de login, com Html e Css
 
-Se quiser ver ele em ação basta clicar https://jhenriquem.github.io/Login-Page/
+[Live Demo](https://jhenriquem.github.io/Login-Page/) :point_left:
 
